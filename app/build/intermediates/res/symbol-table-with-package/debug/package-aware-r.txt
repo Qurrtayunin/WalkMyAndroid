@@ -880,6 +880,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string address_text
 string android_image
 string app_name
 string common_google_play_services_enable_button
@@ -900,8 +901,16 @@ string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
 string get_location
+string invalid_lat_long_used
+string loading
+string location_permission_denied
+string no_address_found
+string no_location
 string search_menu_title
+string service_not_available
+string start_tracking_location
 string status_bar_notification_info_overflow
+string stop_tracking_location
 string textview_hint
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

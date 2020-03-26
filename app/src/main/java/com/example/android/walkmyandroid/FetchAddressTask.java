@@ -57,4 +57,5 @@ public class FetchAddressTask extends AsyncTask<Location, Void, String> {
     interface OnTaskCompleted{
         void onTaskCompleted(String result);
     }
+
 }
